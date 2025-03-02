@@ -3,10 +3,10 @@
 
 ### Academic Background/ Experience:
 - Konkuk.Univ Department of Life Sciences (2021)
-- Konkuk.Univ Major in Smart ICT Convergence Engineering, Minor in Applied Statistics (2022 ~ )
-- Undergraduate research intern at SMART MEDIA LAB (2023)
-- 9th member of the data analysis club KUGGLE (2023-2024)
-- 14th member of the big data union club BITamin (2024 ~ )
+- Konkuk.Univ Major in Smart ICT Convergence Engineering, Minor in Applied Statistics (2022 ~ Present)
+- Undergraduate research intern at SMART MEDIA LAB (2023 Summer)
+- 9th member of the data analysis club KUGGLE (2023.Sep-2024.Sep)
+- 14th member of the big data union club BITamin (2024.Sep ~ Present)
 
 ### Tech Stack,Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
