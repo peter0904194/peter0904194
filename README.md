@@ -2,9 +2,7 @@
 - Documenting and sharing my journey in Deep Learning, Machine Learning, and Data Analysis.
 
 ### Academic Background/ Experience:
-- Konkuk.Univ Bio
-- Konkuk.Univ Major in Smart ICT Convergence Engineering, Minor in Applied Statistics. 
-- 
+- Konkuk.Univ Major in Smart ICT Convergence Engineering, Minor in Applied Statistics.
 
 ### Tech Stack,Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
