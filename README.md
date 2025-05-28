@@ -8,6 +8,9 @@
 - 9th member of the data analysis club KUGGLE (2023.Sep-2024.Sep)
 - 14th member of the big data union club BITamin (2024.Sep ~ Present)
 
+### Certificates 
+- SQLD (Structured Query Language Developer)
+
 ### Tech Stack,Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
