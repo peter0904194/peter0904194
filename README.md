@@ -10,6 +10,8 @@
 
 ### Certificates 
 - SQLD (Structured Query Language Developer)
+- ADsP
+- 빅데이터분석기사
 
 ### Tech Stack,Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
