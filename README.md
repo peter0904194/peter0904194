@@ -9,7 +9,7 @@
 - 14th member of the big data union club BITamin (2024.Sep ~ Present)
 
 ### Certificates 
-- SQLD (Structured Query Language Developer)
+- SQLD
 - ADsP
 - 빅데이터분석기사
 
