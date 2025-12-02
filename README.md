@@ -1,5 +1,6 @@
 ### Currently Working On:
-- Documenting and sharing my journey in Deep Learning, Machine Learning, and Data Analysis.
+- Currently preparing for research and working on various AI/ML projects.
+- My main interests are Recommendation Systems and LLMs, and I’m building my portfolio as I experiment, learn, and refine my work.
 
 ### Academic Background/ Experience:
 - Konkuk.Univ Department of Life Sciences (2021)
@@ -8,6 +9,9 @@
 - 9th member of the data analysis club KUGGLE (2023.Sep-2024.Sep)
 - 14th member of the big data union club BITamin (2024.Sep ~ 2025.Sep)
 
+### Paper Notes & Reviews
+- Velog : https://velog.io/@sjh9_4/posts
+  
 ### Certificates 
 - SQLD
 - ADsP
